@@ -16592,6 +16592,8 @@
 		<string _locid="110031">Improves &lt;color=0.32 0.65 1.0&gt;Champion&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;</string>
 		<string _locid="110032">Freyja's Blessing</string>
 		<string _locid="110033">Improves &lt;color=0.32 0.65 1.0&gt;Guard Tower&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ranged&lt;/color&gt;</string>
+		<string _locid="110034">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Snare&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+8.5% Health&lt;/color&gt;</string>
+		<string _locid="110035">Advances civilization to Golden Age and improves &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Advance to Golden Age&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Build Limit&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+6&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Garden&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Build Limit&lt;/color&gt;</string>
 		<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>

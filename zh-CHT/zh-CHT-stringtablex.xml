@@ -16081,7 +16081,6 @@
 		<string _locid="68598">FXObject_Env_Waterfall_Top2__</string>
 		<string _locid="68599">FXObject_Env_Waterfall_Middle2__</string>
 		<string _locid="68600">FXObject_Env_Waterfall_Bottom2__</string>
-		
 		<!-- Celeste Gear Pack -->
 		<string _locid="100000">Master Assassin's Gauntlets</string>
 		<string _locid="100001">Heavy Spear of Sacrifice</string>
@@ -16099,7 +16098,30 @@
 		<string _locid="100013">Blessed food of Athens</string>
 		<string _locid="100014">Divine Heavy Cedar Beams</string>
 		<string _locid="100015">Heavy Destroyer Weave</string>
-		<string _locid="100016">Blessed Dionysus´s Throwing Arm</string>
+		<string _locid="100016">Blessed Dionysus´ Throwing Arm</string>
+		<!-- Celeste PVP Balance Changes -->
+		<string _locid="110028">Improves &lt;color=0.32 0.65 1.0&gt;Sapper&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Movement Speed&lt;/color&gt;</string>
+		<string _locid="110029">Improves &lt;color=0.32 0.65 1.0&gt;Lancer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Grants Charge Attack\n(x3.0 Bonus Damage)&lt;/color&gt;</string>
+		<string _locid="110030">Improves &lt;color=0.32 0.65 1.0&gt;Siege Tower&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Larger Area Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Snare Immunity&lt;/color&gt;</string>
+		<string _locid="110031">Improves &lt;color=0.32 0.65 1.0&gt;Champion&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;</string>
+		<string _locid="110032">Freyja's Blessing</string>
+		<string _locid="110033">Improves &lt;color=0.32 0.65 1.0&gt;Guard Tower&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ranged&lt;/color&gt;</string>
+		<string _locid="110034">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Snare&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+8.5% Health&lt;/color&gt;</string>
+		<string _locid="110035">Advances civilization to Golden Age and improves &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Advance to Golden Age&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Build Limit&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+6&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Garden&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Build Limit&lt;/color&gt;</string>
+		<string _locid="110036">Advances civilization to Silver Age and improves &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Advance to Silver Age&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Build Limit&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+2&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Garden&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Build Limit&lt;/color&gt;</string>
+		<string _locid="110037">Improves &lt;color=0.32 0.65 1.0&gt;Garden&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+2 Build Limit&lt;/color&gt;</string>
+		<string _locid="110038">Agriculture</string>
+		<string _locid="110039">Royal Agriculture</string>
+		<string _locid="110040">Advances civilization to Silver Age and improves &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Advance to Silver Age&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1 Build Limit&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25%&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Guard Tower&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Bonus Damage vs.&lt;/color&gt; &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ranged&lt;/color&gt;</string>
+		<string _locid="110041">Improves &lt;color=0.32 0.65 1.0&gt;Raider&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Villagers&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+75% Snare Resistance &lt;/color&gt;</string>
+		<!-- Celeste Chat Channel -->
+		<string _locid="160121">PVP</string>
+		<string _locid="160122">DE</string>
+		<string _locid="160123">ES</string>
+		<string _locid="160124">FR</string>
+		<string _locid="160125">IT</string>
+		<string _locid="160127">NL</string>
+		<string _locid="160126">PT</string>
 		<!-- CELESTE ISLAND -->
 		<string _locid="100017">Celeste Island</string>
 		<string _locid="100018">Under Construction</string>
@@ -16115,31 +16137,5 @@
 		<string _locid="100026">Athens Basic Store</string>
 		<string _locid="100027">Athena´s Long Spear</string>
 		<string _locid="100028">Athenian Training Manual</string>
-		<!-- MAP Page Aegean Sea -->
-		<string _locid="100029">Aegean Sea</string>
-		
-		<!-- ====================================================-->
-		<!-- Celeste PVP Balance Changes -->
-		<string _locid="110028">Improves &lt;color=0.32 0.65 1.0&gt;Sapper&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Movement Speed&lt;/color&gt;</string>
-		<string _locid="110029">Improves &lt;color=0.32 0.65 1.0&gt;Lancer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Grants Charge Attack\n(x3.0 Bonus Damage)&lt;/color&gt;</string>
-		<string _locid="110030">Improves &lt;color=0.32 0.65 1.0&gt;Siege Tower&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Larger Area Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Snare Immunity&lt;/color&gt;</string>
-		<string _locid="110031">Improves &lt;color=0.32 0.65 1.0&gt;Champion&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;</string>
-		<string _locid="110032">Freyja's Blessing</string>
-		<string _locid="110033">Improves &lt;color=0.32 0.65 1.0&gt;Guard Tower&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ranged&lt;/color&gt;</string>
-		<string _locid="110034">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Snare&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+8.5% Health&lt;/color&gt;</string>
-		<string _locid="110035">Advances civilization to Golden Age and improves &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Advance to Golden Age&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Build Limit&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+6&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Garden&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Build Limit&lt;/color&gt;</string>
-		<string _locid="110036">Advances civilization to Silver Age and improves &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Advance to Silver Age&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Build Limit&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+2&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Garden&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Build Limit&lt;/color&gt;</string>
-		<string _locid="110037">Improves &lt;color=0.32 0.65 1.0&gt;Garden&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+2 Build Limit&lt;/color&gt;</string>
-		<string _locid="110038">Agriculture</string>
-		<string _locid="110039">Royal Agriculture</string>
-		<string _locid="110040">Advances civilization to Silver Age and improves &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Advance to Silver Age&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1 Build Limit&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25%&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Guard Tower&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Bonus Damage vs.&lt;/color&gt; &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ranged&lt;/color&gt;</string>
-		<!-- Celeste Chat Channel -->
-		<string _locid="160121">PVP</string>
-		<string _locid="160122">DE</string>
-		<string _locid="160123">ES</string>
-		<string _locid="160124">FR</string>
-		<string _locid="160125">IT</string>
-		<string _locid="160127">NL</string>
-		<string _locid="160126">PT</string>
 	</language>
 </stringtable>

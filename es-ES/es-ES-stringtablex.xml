@@ -16624,6 +16624,7 @@
 		<string _locid="110038">Agricultura</string>
 		<string _locid="110039">Agricultura real</string>
 		<string _locid="110040">Hace avanzar la civilización a la Edad de Plata y mejora el &lt;color=0.32 0.65 1.0&gt;centro urbano&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Avanza a Edad de Plata&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1 límite de construcción&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% Torre de vigilancia de daño adicional contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades a distancia&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;</string>
+		<string _locid="110041">Mejora el &lt;color=0.32 0.65 1.0&gt;asaltante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño adicional contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga 75% contra ralentización&lt;/color&gt;</string>
 		<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>

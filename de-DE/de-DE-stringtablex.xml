@@ -16624,6 +16624,7 @@
 		<string _locid="110038">Landwirtschaft</string>
 		<string _locid="110039">Königliche landwirtschaft</string>
 		<string _locid="110040">Entwickelt die Kultur zum Silber-Zeitalter weiter und verbessert &lt;color=0.32 0.65 1.0&gt;Dorfzentrum&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Weiterentwicklung zum Silber-Zeitalter&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Errichtungsgrenze +1&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Wachturm Extraschaden +25% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Fernkampf&lt;/color&gt;-Einheiten*&lt;color=0.0 1.0 0.0&gt;</string>
+		<string _locid="110041">Verbessert &lt;color=0.32 0.65 1.0&gt;Plünderer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität 75% &lt;/color&gt;</string>
 		<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>

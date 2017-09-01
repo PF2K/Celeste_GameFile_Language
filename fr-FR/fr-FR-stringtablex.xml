@@ -16624,6 +16624,7 @@
 		<string _locid="110038">Agriculture</string>
 		<string _locid="110039">Agriculture royale</string>
 		<string _locid="110040">Fait avancer votre civilisation à l&apos;Âge d&apos;Argent et améliore les &lt;color=0.32 0.65 1.0&gt;forums&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Avancer à l&apos;Âge d&apos;Argent&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Santé +33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Limite de construction +1&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% Tour de garde de bonus aux dégâts contre les &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;attaques à distances&lt;/color&gt;</string>
+		<string _locid="110041">Améliore les&lt;color=0.32 0.65 1.0&gt;pillards&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50 % de bonus aux dégâts contre les &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Octroie 75% contre les pièges&lt;/color&gt;</string>
 		<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>

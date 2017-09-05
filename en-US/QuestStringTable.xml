@@ -3412,8 +3412,8 @@
 		<!-- ATHENS CELESTE PDLC SPECIAL EDITION GREEK - La revuelta Griega -->
 		<string _locid="20015">Celeste Special Content: The Greek Revolt</string>
 		<string _locid="20016">New free content available. Travel to Athens and discover new adventures</string>
-		<string _locid="20017">Welcome to Athens, contemplate the splendor of our city. \n \ nSo, if you're still here, maybe I need your help. What do you say?</string>
-		<string _locid="20018">Welcome to Athens, contemplate the splendor of our city. \n \ nSo, if you're still here, maybe I need your help. What do you say?</string>
+		<string _locid="20017">Welcome to Athens, contemplate the splendor of our city. \n \nSo, if you're still here, maybe I need your help. What do you say?</string>
+		<string _locid="20018">Welcome to Athens, contemplate the splendor of our city. \n \nSo, if you're still here, maybe I need your help. What do you say?</string>
 		<string _locid="20019">Speak to the Leader Hoplite in Athens</string>
 		<string _locid="20020">Travel to Athens and talk to Hoplite Leader</string>
 		<!-- ATHENS START INCURSION -->
@@ -3590,5 +3590,18 @@
 		<string _locid="20157">Defeat yourself in Legendary 2vs2 AI: Skirmish Champion Mode</string>
 		<string _locid="20158">Defeat yourself</string>
 		<string _locid="20159">Defeat yourself Coop</string>
+		
+		<!-- Wonder Defense -->
+		<string _locid="20160">Wonder Defense</string>
+		<string _locid="20161"></string>
+		<string _locid="20162"></string>
+		<string _locid="20163"></string>
+		<string _locid="20164"></string>
+		<string _locid="20165"></string>
+		<string _locid="20166"></string>
+		<string _locid="20167"></string>
+		<string _locid="20168"></string>
+		<string _locid="20169">Good Guy</string>
+		<string _locid="20170">Bad Guy</string>
 	</language>
 </stringtable>

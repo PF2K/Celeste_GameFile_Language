@@ -16136,6 +16136,7 @@
 		<string _locid="110041">Improves &lt;color=0.32 0.65 1.0&gt;Raider&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Villagers&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+75% Snare Resistance &lt;/color&gt;</string>
 		<string _locid="110042">Increases capacity of &lt;color=0.32 0.65 1.0&gt;Gold Mine&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+5 Villager Capacity&lt;/color&gt;</string>	
 		<string _locid="110043">Gold Rush</string>	
+		<string _locid="110044">Improves &lt;color=0.32 0.65 1.0&gt;Elephant Archer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 Population Count&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% Melee-Cavalry Armor&lt;/color&gt; </string>				
 		<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>

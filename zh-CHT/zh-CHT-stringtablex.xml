@@ -16137,6 +16137,9 @@
 		<string _locid="110042">Increases capacity of &lt;color=0.32 0.65 1.0&gt;Gold Mine&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+5 Villager Capacity&lt;/color&gt;</string>	
 		<string _locid="110043">Gold Rush</string>	
 		<string _locid="110044">Improves &lt;color=0.32 0.65 1.0&gt;Elephant Archer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 Population Count&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% Melee-Cavalry Armor&lt;/color&gt; </string>				
+		<string _locid="110045">Reduces training time of &lt;color=0.32 0.65 1.0&gt;Villager&lt;/color&gt;, but changes their cost to Gold.*&lt;color=0.0 1.0 0.0&gt;-33% Training Time&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-40 Food Cost&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+40 Gold Cost&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Can Be Toggled On/Off&lt;/color&gt;</string>	
+		<string _locid="110046">Activate Paid Labor - Villagers train in 33% less time, but changes their cost to Gold</string>	
+		<string _locid="110047">Improves &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+2 Health Regen. Per Second&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Charge&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Snare Immunity&lt;/color&gt;</string>			
 		<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>

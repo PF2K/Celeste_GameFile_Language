@@ -16627,7 +16627,10 @@
 		<string _locid="110041">Mejora el &lt;color=0.32 0.65 1.0&gt;asaltante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño adicional contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga 75% contra ralentización&lt;/color&gt;</string>
 		<string _locid="110042">Aumenta la capacidad de los &lt;color=0.32 0.65 1.0&gt;Gold Mine&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+5 de capacidad de villageros&lt;/color&gt;</string>		
 		<string _locid="110043">Fiebre del Oro</string>	
-		<string _locid="110044">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero en elefante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 de población&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% armadura contra infantería cuerpo a cuerpo&lt;/color&gt;</string>		
+		<string _locid="110044">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero en elefante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 de población&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% armadura contra infantería cuerpo a cuerpo&lt;/color&gt;</string>	
+		<string _locid="110045">Reduce el tiempo de formación de los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;, pero cambia su coste a oro.*&lt;color=0.0 1.0 0.0&gt;-33% de tiempo de formación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-40 de coste de comida&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+40 de coste en oro&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Puede activarse y desactivarse&lt;/color&gt;</string>		
+		<string _locid="110046">Activar la mano de obra pagada: los aldeanos se forman en un 45% menos de tiempo pero cambia su coste a oro</string>		
+		<string _locid="110047">Mejora el &lt;color=0.32 0.65 1.0&gt;berserker&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+2 de regeneración de salud por segundo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga carga&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra ralentización&lt;/color&gt;</string>		
 		<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>

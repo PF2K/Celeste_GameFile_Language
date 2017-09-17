@@ -16627,8 +16627,11 @@
 		<string _locid="110041">Verbessert &lt;color=0.32 0.65 1.0&gt;Plünderer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität 75% &lt;/color&gt;</string>
 		<string _locid="110042">Erhöht Fassungsvermögen von &lt;color=0.32 0.65 1.0&gt;Gold Mine&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Villagerkapazität +5&lt;/color&gt;</string>		
 		<string _locid="110043">Goldfieber</string>	
-		<string _locid="110044">Verbessert &lt;color=0.32 0.65 1.0&gt;Elefanten-Bogenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bevölkerungszahl -1&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Nahkampf-Kavalrierüstung +50%&lt;/color&gt;</string>		
-		<!-- Celeste Chat Channel -->
+		<string _locid="110044">Verbessert &lt;color=0.32 0.65 1.0&gt;Elefanten-Bogenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bevölkerungszahl -1&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Nahkampf-Kavalrierüstung +50%&lt;/color&gt;</string>
+		<string _locid="110045">Reduziert die Ausbildungsdauer von &lt;color=0.32 0.65 1.0&gt;Dorfbewohnern&lt;/color&gt;, ändert aber ihre Kosten in Gold.*&lt;color=0.0 1.0 0.0&gt;Ausbildungsdauer -33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Nahrungskosten -40&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Goldkosten +40&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Kann ein- und ausgeschaltet werden&lt;/color&gt;</string>
+		<string _locid="110046">Deaktiviere Lohnarbeit - Dorfbewohner werden um 33% schneller ausgebildet, müssen dann aber mit Gold bezahlt werden</string>		
+		<string _locid="110047">Verbessert &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunktregen. pro Sekunde +2&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Sturmangriff&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität&lt;/color&gt;</string>		
+				<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>
 		<string _locid="160123">ES</string>

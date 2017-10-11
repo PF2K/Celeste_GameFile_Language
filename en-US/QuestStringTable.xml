@@ -3401,7 +3401,7 @@
 		<string _locid="14004">Face this battle, and discover the traitors.</string>
 		<!-- ALLIANCE TRIBUTE WARS V2-->
 		<string _locid="14005">Legendary: The end of the traitors.</string>
-		<string _locid="14006">Now that we know traitors, we must act quickly. King Agamemnon, Brennos and King Tiestes, will not see you coming. \n \nTake them offhand and beat them on the battlefield. It will not be easy, but we trust you.</string>
+		<string _locid="14006">Now that we know traitors, we must act quickly. King Agamemnon, Brennos and King Tiestes, will not see you coming. \n \nTake them offhand and beat them on the battlefield. It will not be easy, but we have faith in you.</string>
 		<string _locid="14007">Good work, the traitors were defeated and could only escape the battle.</string>
 		<string _locid="14008">If we allow traitors to triumph, the whole Alliance is in danger!</string>
 		<string _locid="14009">Show that you can protect the alliance, and defeat the traitors.</string>
@@ -3412,10 +3412,10 @@
 		<!-- ATHENS CELESTE PDLC SPECIAL EDITION GREEK - La revuelta Griega -->
 		<string _locid="20015">Celeste Special Content: The Greek Revolt</string>
 		<string _locid="20016">New free content available. Travel to Athens and discover new adventures</string>
-		<string _locid="20017">Welcome to Athens, contemplate the splendor of our city. \n \nSo, if you're still here, maybe I need your help. What do you say?</string>
-		<string _locid="20018">Welcome to Athens, contemplate the splendor of our city. \n \nSo, if you're still here, maybe I need your help. What do you say?</string>
+		<string _locid="20017">Welcome to Athens, contemplate the splendor of our city. \n \nSo, if you're still here, I might need your help. What do you say?</string>
+		<string _locid="20018">Welcome to Athens, contemplate the splendor of our city. \n \nSo, if you're still here, I might need your help. What do you say?</string>
 		<string _locid="20019">Speak to the Leader Hoplite in Athens</string>
-		<string _locid="20020">Travel to Athens and talk to Hoplite Leader</string>
+		<string _locid="20020">Travel to Athens and talk to the Hoplite Leader</string>
 		<!-- ATHENS START INCURSION -->
 		<string _locid="20021">Incursion</string>
 		<string _locid="20022">Welcome my friend, we need your help to support our allies and recover some Persian dominated regions, we will only have a minimal group of workers not to attract attention. \n \nIf things turn out well we will have a favorable position and we will be able to assault your Cities. We count on you.</string>
@@ -3424,10 +3424,10 @@
 		<string _locid="20025">Talk to Leader Hoplite and the Dockmaster</string>
 		<!-- INCURSION NAVAL -->
 		<string _locid="20026">Incursion in Quios</string>
-		<string _locid="20027">We have information on some settlements that try to intercept us on the outskirts of their shores. \n \nStay on some small island and defeat them, if you get it our troops will land their coasts and finish with the work.</string>
+		<string _locid="20027">We have information on some settlements that are trying to intercept us on the outskirts of their shores. \n \nStay on some small island and defeat them, if you get it our troops will land on their coasts and complete your work.</string>
 		<string _locid="20028">Good job! I think we will get it!</string>
-		<string _locid="20029">Try not to be discovered and defeat your enemies fast.</string>
-		<string _locid="20030">Build your urban center and eliminate enemies in the area.</string>
+		<string _locid="20029">Try not to be discovered and defeat your enemies quickly.</string>
+		<string _locid="20030">Build your Town Center and eliminate the enemies in the area.</string>
 		<string _locid="20031">Incursion in Clazomene</string>
 		<string _locid="20032">Incursion in Lebedos</string>
 		<string _locid="20033">Incursion in Samos</string>
@@ -3435,22 +3435,22 @@
 		<string _locid="20034">Imperial Collectors</string>
 		<string _locid="20035">Persian Explorers</string>
 		<!-- Objectives -->
-		<string _locid="20036">Town Center Built</string>
+		<string _locid="20036">Town Center built</string>
 		<string _locid="20037">Town Center destroyed</string>
 		<string _locid="20038">Allied Town Center discovered</string>
-		<string _locid="20039">Persian general killed</string>
+		<string _locid="20039">Persian General killed</string>
 		<string _locid="20040">Fortresses destroyed</string>
-		<string _locid="20041">Advanced troop defeated</string>
+		<string _locid="20041">Advanced Troops defeated</string>
 		<string _locid="20042">Completed twenty minutes early</string>	
 		<!-- There i left some spaces for future string or fixes -->
 		<string _locid="20043">Ally submitted</string>
 		<string _locid="20044">Enemies defeated</string>	
-		<string _locid="20045">The ally's Town Center must survive</string>
+		<string _locid="20045">The Ally's Town Center must survive</string>
 		<string _locid="20046">Rebel Ally</string>
-		<string _locid="20047">Wonder Destroyed</string>
+		<string _locid="20047">Wonder destroyed</string>
 		<string _locid="20048">Completed fifteen minutes early</string>
-		<string _locid="20049">Guardians Eliminated in time</string>
-		<string _locid="20050">Built-in Town Center in time</string>
+		<string _locid="20049">Guardians eliminated in time</string>
+		<string _locid="20050">Built Town Center in time</string>
 		<!-- Personality Land -->
 		<string _locid="20051">Eritrea´s Defenders </string>
 		<string _locid="20052">Teos´s Defenders</string>
@@ -3465,15 +3465,15 @@
 		<!-- GLOBAL INCURSION LAND -->
 		<string _locid="20061">New frontiers</string>
 		<string _locid="20062">We need better sea trade routes, if you manage to free these regions from the Persians it would be excellent!</string>
-		<string _locid="20063">Well done boy, now we can expand</string>
+		<string _locid="20063">Well done soldier, now we can expand</string>
 		<string _locid="20064">Remember that in order to expand we need new routes</string>
 		<string _locid="20065">Release the regions</string>
 		
 		<!-- ATHENS ERITREA QUEST -->
 		<string _locid="20066">Eritrea</string>
 		<string _locid="20067">Eritrea is a good starting position for the siege, we must take it quickly and find our allies in the area.</string>
-		<string _locid="20068">Good job, keep it up and our goal will be favorable.</string>
-		<string _locid="20069">Damn Persians, we must end this tyranny.</string>
+		<string _locid="20068">Good job, keep it up and our victory will be complete!</string>
+		<string _locid="20069">Damn Persians, we must end their tyranny!</string>
 		<string _locid="20070">Assault Eritrea and explores the area in search of allies.</string>
 
 		<!-- ATHENS TEOS QUEST -->
@@ -3485,7 +3485,7 @@
 		
 		<!-- ATHENS PRIENE QUEST -->
 		<string _locid="20076">Priene</string>
-		<string _locid="20077">As our troops settle into the northern part of the coast, it would be a good time to rob Priene by surprise.</string>
+		<string _locid="20077">As our troops settle into the northern part of the coast, it would be a good time to assault Priene by surprise.</string>
 		<string _locid="20078">Good job, we must be attentive to what is coming.</string>
 		<string _locid="20079">Be careful, apparently your troops are advanced</string>
 		<string _locid="20080">Assault Priene and eliminates our enemies.</string>
@@ -3494,20 +3494,20 @@
 		<string _locid="20081">Colofon</string>
 		<string _locid="20082">One of our allies has been revealed in Colofon. Go there, assault the region and defend our ally</string>
 		<string _locid="20083">The Gods smile at you friend. Our ally survived and managed to escape to Greece.</string>
-		<string _locid="20084">Our ally is alone and unprotected, go fast in his aid.</string>
+		<string _locid="20084">Our ally is alone and unprotected, he needs your aid swiftly!</string>
 		<string _locid="20085">Assault Colofon and protect our ally.</string>
 		
 		<!-- ATHENS FOCEA QUEST -->
 		<string _locid="20086">Focea</string>
 		<string _locid="20087">Focea is a key region for our mission, if we take it, we can enter the river.</string>
-		<string _locid="20088">Well done, with this victory we have the north coast secured.</string>
+		<string _locid="20088">Well done, with this victory we have the north coast secured!</string>
 		<string _locid="20089">Hurry, we need all the north coast in our favor.</string>
 		<string _locid="20090">Assault Focea and eliminate his troops</string>
 		
 		<!-- ATHENS EFESO QUEST -->
 		<string _locid="20091">Efeso</string>
 		<string _locid="20092">Efeso is a city near Mileto, we must secure it.</string>
-		<string _locid="20093">Well done, with this victory we avoid being flanked</string>
+		<string _locid="20093">Well done, with this victory we have avoided the possibility of being flanked!</string>
 		<string _locid="20094">We must make sure we get this city</string>
 		<string _locid="20095">Assault Efeso and defeat our enemies</string>
 		
@@ -3521,13 +3521,13 @@
 		<!-- ATHENS SARDES QUEST -->
 		<string _locid="20101">Sardes</string>
 		<string _locid="20102">Damn it! Aristagoras attacked solo Mileto and was ambushed, we must give a surprise blow in his city of Sardes so we will divert the attention and Aristagoras could escape.</string>
-		<string _locid="20103">Well done, maybe Aristagoras has a chance</string>
+		<string _locid="20103">Well done, we may have given Aristagoras a second chance!</string>
 		<string _locid="20104">We must defeat the enemy as a place.</string>
 		<string _locid="20105">Assault the city of Sardes</string>
 		
 		<!-- ATHENS MILETO QUEST -->
 		<string _locid="20106">Mileto: Desperate Escape</string>
-		<string _locid="20107">Aristagoras has lost Miletus and needs to escape from the region. Stop the Persian Advanced Troop.</string>
+		<string _locid="20107">Aristagoras has lost Miletus and needs to escape from the region. Stop the Persian Advanced Troops.</string>
 		<string _locid="20108">Well done, Aristagoras lost his city but at least he's still alive.</string>
 		<string _locid="20109">Damn it! This will bring the war to Greece.</string>
 		<string _locid="20110">Defeat the enemy or die with glory.</string>
@@ -3546,7 +3546,7 @@
 		
 		<!-- MESSENGER OF ARISTAGORAS - GLOBAL PERSIAN GENERAL -->
 		<string _locid="20121">Hunting</string>
-		<string _locid="20122">Many people are happy that Athens has been unified! Their lives are peaceful, and they can focus on their homes and families without fear. \n \nUnfortunately, not everyone thrives under peace. The Allied army is bored, and that makes it an easy target. Rebel factions are securing the help of the Generals and become more dangerous than ever. \n \nThese generals have lost their way and will not return. Punish them!</string>
+		<string _locid="20122">Many people are happy that Athens has been unified! Their lives are peaceful, and they can focus on their homes and families without fear. \n \nUnfortunately, not everyone thrives under peace. The Allied army is bored, and that makes it an easy target. Rebel factions are securing the help of the Generals and have become more dangerous than ever. \n \nThese generals have lost their way and will not return. Punish them!</string>
 		<string _locid="20123">We must hunt these Generals</string>
 		
 		<!-- REPEATABLES -->
@@ -3577,7 +3577,7 @@
 		<string _locid="20146">Celeste: Athenian Challenge</string>
 		<string _locid="20147">As a good Athenian warrior you should not have problems in assaulting all regions of the revolt in Elite and Legendary mode. Do you think you can do it?</string>
 		<string _locid="20148">Well done! Your effort was worth it. You have your deserved Prize.</string>
-		<string _locid="20149">What happened? Did you give up for Loser? Is it very difficult for you?</string>		
+		<string _locid="20149">What happened? Are you giving up? Is it too difficult for you?</string>		
 		
 		<!-- SKIRMISH CHAMPION -->
 		<string _locid="20150">1vs1 AI: Skirmish Champion Mode</string>

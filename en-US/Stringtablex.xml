@@ -11041,7 +11041,7 @@
 		<string _locid="62055">Crafting Hall</string>
 		<string _locid="62056">Pe_Craft_Chooser__</string>
 		<string _locid="62057" symbol="cStringCivPersian">Persia</string>
-		<string _locid="62058">Activate Paid Labor - Villagers train in 45% less time, but changes their cost to Gold</string>
+		<string _locid="62058">Activate Paid Labor - Villagers train in 33% less time, but changes their cost to Gold</string> <!--edit org 45%-->
 		<string _locid="62059">Kardaka General Arsham</string>
 		<string _locid="62060">Horselord Siavash</string>
 		<string _locid="62061">Charioteer Bahadur</string>
@@ -16584,13 +16584,13 @@
 		<string _locid="100007">Walls of the Architect</string>
 		<string _locid="100008">Walls of the Master Defender</string>
 		<string _locid="100009">Belly Bow of the Master Hunter</string>
-		<string _locid="100010">Divine High Vizier's Robe</string>
+		<string _locid="100010">Divine High Vizier's Robes</string>
 		<string _locid="100011">Arrows of Darkness</string>
-		<string _locid="100012">Tunic of the collector</string>
-		<string _locid="100013">Blessed food of Athens</string>
+		<string _locid="100012">Tunic of the Collector</string>
+		<string _locid="100013">Blessed Food of Athens</string>
 		<string _locid="100014">Divine Heavy Cedar Beams</string>
 		<string _locid="100015">Heavy Destroyer Weave</string>
-		<string _locid="100016">Blessed Dionysus´s Throwing Arm</string>
+		<string _locid="100016">Blessed Dionysus´ Throwing Arm</string>
 		<!-- CELESTE ISLAND -->
 		<string _locid="100017">Celeste Island</string>
 		<string _locid="100018">Under Construction</string>
@@ -16599,7 +16599,7 @@
 		<string _locid="100020">Athens was the main city of ancient Greece in the region called Attica, located southeast of Continental Greece. It is a rocky, triangular peninsula that penetrates the Aegean Sea. \n \nDespite being a mountainous region, it has three important plains. Eleusis, Athens and Marathon. The port of Athens was Piraeus.\n \nIts secure location on the Acropolis and its access to the sea provided a natural advantage over potential rivals such as Thebes and Sparta. \n 	\nThe most widespread legend was that the first king had been Aegeus, whose son-successor Theseus gave splendor to the city of Athens.</string>
 		<string _locid="100021">Leader Hoplite</string>
 		<string _locid="100022">Professor Socrates</string>
-		<string _locid="100023">Hail to stranger, I still need your help, are you interested?</string>
+		<string _locid="100023">Hail to you stranger! I still need your help, are you interested?</string>
 		<string _locid="100024">Messenger of Aristagoras</string>
 		<!-- ATHENS LEGENDARY VENDOR -->
 		<string _locid="100025">At_Cap_BasicStore01__</string>
@@ -16630,7 +16630,14 @@
 		<string _locid="110044">Improves &lt;color=0.32 0.65 1.0&gt;Elephant Archer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 Population Count&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% Melee-Cavalry Armor&lt;/color&gt; </string>		
 		<string _locid="110045">Reduces training time of &lt;color=0.32 0.65 1.0&gt;Villager&lt;/color&gt;, but changes their cost to Gold.*&lt;color=0.0 1.0 0.0&gt;-33% Training Time&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-40 Food Cost&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+40 Gold Cost&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Can Be Toggled On/Off&lt;/color&gt;</string>		
 		<string _locid="110046">Activate Paid Labor - Villagers train in 33% less time, but changes their cost to Gold</string>		
-		<string _locid="110047">Improves &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+2 Health Regen. Per Second&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Charge&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Snare Immunity&lt;/color&gt;</string>		
+		<string _locid="110047">Improves &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+2 Health Regen. Per Second&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Charge&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Snare Immunity&lt;/color&gt;</string>	
+		<string _locid="110048">Improves &lt;color=0.32 0.65 1.0&gt;Magus&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% Conversion Rate&lt;/color&gt;</string>		
+		<string _locid="110049">Improves &lt;color=0.32 0.65 1.0&gt;Priest&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% Conversion Rate&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Conversion Range&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Line-of-Sight&lt;/color&gt;</string>	
+		<string _locid="110050">Grand Priest</string>		
+		<string _locid="110051">Celestial Magus</string>		
+		<string _locid="110052">Elder Druid</string>		
+		<string _locid="110053">Elder Augur</string>	
+		<string _locid="110054">War Hound</string>		
 		<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>

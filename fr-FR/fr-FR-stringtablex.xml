@@ -11041,7 +11041,7 @@
 		<string _locid="62055">Pavillon d&apos;étude</string>
 		<string _locid="62056">Pe_Craft_Chooser__</string>
 		<string _locid="62057" symbol="cStringCivPersian">PERSES</string>
-		<string _locid="62058">Activer Main d&apos;oeuvre payée - Les villageois sont formés en 45 % moins de temps, mais ils coûtent de l&apos;Or.</string>
+		<string _locid="62058">Activer Main d&apos;oeuvre payée - Les villageois sont formés en 33 % moins de temps, mais ils coûtent de l&apos;Or.</string>
 		<string _locid="62059">Général des kardakas Arsham</string>
 		<string _locid="62060">Maître des chevaux Siavash</string>
 		<string _locid="62061">Aurige Bahadur</string>
@@ -16630,7 +16630,14 @@
 		<string _locid="110044">Améliore &lt;color=0.32 0.65 1.0&gt;Archer sur éléphant&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 compte démographique&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Armure d&apos;cavalerie en mêlée +50%&lt;/color&gt;</string>	
 		<string _locid="110045">Réduit le temps de formation des &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;, mais ils coûtent de l&apos;Or.*&lt;color=0.0 1.0 0.0&gt;-33 % période d&apos;entraînement&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-40 coût de la nourriture&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+40 coût de l&apos;Orlt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Peut être alterné d&apos;actif à inactif&lt;/color&gt;</string>		
 		<string _locid="110046">Activer Main d&apos;oeuvre payée - Les villageois sont formés en 45 % moins de temps, mais ils coûtent de l&apos;Or.</string>		
-		<string _locid="67579">Améliore les &lt;color=0.32 0.65 1.0&gt;Berserkers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Régén. santé par seconde +2&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Octroie Charge&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Octroie Immunité contre les pièges&lt;/color&gt;</string>		
+		<string _locid="110047">Améliore les &lt;color=0.32 0.65 1.0&gt;Berserkers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Régén. santé par seconde +2&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Octroie Charge&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Octroie Immunité contre les pièges&lt;/color&gt;</string>	
+		<string _locid="110048">Améliore les &lt;color=0.32 0.65 1.0&gt;mages&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Taux de conversion +30%&lt;/color&gt;</string>	
+		<string _locid="110049">Améliore les &lt;color=0.32 0.65 1.0&gt;prêtres&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Taux de conversion +15 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Portée de conversion +10 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Champ de vision +10 %&lt;/color&gt;</string>		
+		<string _locid="110050">Grand prêtre</string>		
+		<string _locid="110051">Mage celeste</string>		
+		<string _locid="110052">Augure aîné</string>		
+		<string _locid="110053">Druide aîné</string>	
+		<string _locid="110054">Chien de guerre</string>		
 		<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>

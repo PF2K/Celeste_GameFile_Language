@@ -11041,7 +11041,7 @@
 		<string _locid="62055">Salón de artesanía</string>
 		<string _locid="62056">Pe_Craft_Chooser__</string>
 		<string _locid="62057" symbol="cStringCivPersian">Persia</string>
-		<string _locid="62058">Activar la mano de obra pagada: los aldeanos se forman en un 45% menos de tiempo pero cambia su coste a oro</string>
+		<string _locid="62058">Activar la mano de obra pagada: los aldeanos se forman en un 33% menos de tiempo pero cambia su coste a oro</string>
 		<string _locid="62059">Arsham el General de los kardakas</string>
 		<string _locid="62060">Siavash el Señor de los caballos</string>
 		<string _locid="62061">Bahadur el Auriga</string>
@@ -16631,6 +16631,13 @@
 		<string _locid="110045">Reduce el tiempo de formación de los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;, pero cambia su coste a oro.*&lt;color=0.0 1.0 0.0&gt;-33% de tiempo de formación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-40 de coste de comida&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+40 de coste en oro&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Puede activarse y desactivarse&lt;/color&gt;</string>		
 		<string _locid="110046">Activar la mano de obra pagada: los aldeanos se forman en un 45% menos de tiempo pero cambia su coste a oro</string>		
 		<string _locid="110047">Mejora el &lt;color=0.32 0.65 1.0&gt;berserker&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+2 de regeneración de salud por segundo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga carga&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra ralentización&lt;/color&gt;</string>		
+		<string _locid="110048">Mejora el &lt;color=0.32 0.65 1.0&gt;mago&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% de tasa de conversión&lt;/color&gt;</string>		
+		<string _locid="110049">Mejora el &lt;color=0.32 0.65 1.0&gt;sacerdote&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de velocidad de conversión&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de alcance de conversión&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de campo visual&lt;/color&gt;</string>		
+		<string _locid="110050">Aran Sacerdote</string>		
+		<string _locid="110051">Mago Celestial</string>		
+		<string _locid="110052">Anciano Druid</string>		
+		<string _locid="110053">Anciano Augur</string>	
+		<string _locid="110054">Perro de pelea</string>		
 		<!-- Celeste Chat Channel -->
 		<string _locid="160121">PVP</string>
 		<string _locid="160122">DE</string>
